@@ -1,0 +1,17 @@
+
+.pie-chart {
+    width: 500px;  
+    height: 500px; 
+    margin: 0 auto; 
+    padding: 20px;
+  }
+  
+
+  .pie-chart h2 {
+    text-align: center;
+    font-size: 1.4rem;
+    margin-bottom: 10px;
+    color: #257180;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  

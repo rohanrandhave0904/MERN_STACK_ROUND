@@ -1,0 +1,69 @@
+
+.transTable {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: white;
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    overflow-x: auto; 
+  }
+  
+ 
+  .transTable h2 {
+    text-align: center;
+    font-size: 1.8rem;
+    color: #257180;
+    margin-bottom: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  
+
+  .transTable{
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 1rem;
+    text-align: left;
+  }
+  
+
+  .transTable thead th {
+    background-color: #f4f4f9;
+    color: #555;
+    padding: 12px 15px;
+    border-bottom: 2px solid #ddd;
+    font-weight: bold;
+  }
+  
+
+  .transTable tbody tr {
+    border-bottom: 1px solid #ddd;
+  }
+  
+
+  .transTable tbody td {
+    padding: 10px 15px;
+    color: #333;
+  }
+  
+
+  .transTable tbody tr:hover {
+    background-color: #f9f9f9;
+    cursor: pointer;
+  }
+  
+ .transTable .page{
+    align-items: center;
+ }
+ 
+ .next{
+  margin-left: 600px;
+  margin-top: 10px;
+  color: #257180;
+ }
+ .prev{
+  margin-left: 20px;
+  margin-right: 150px;
+  margin-top: 10px;
+  color: #257180;
+ }

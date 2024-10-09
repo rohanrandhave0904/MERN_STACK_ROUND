@@ -1,0 +1,16 @@
+
+.bar-chart {
+    max-width: 50%;  /* Ensure the chart is responsive */
+    margin: 0 auto;   /* Center the chart */
+  }
+  
+ 
+  .bar-chart h2 {
+    text-align: center;
+    font-size: 1.6rem;
+    color: #257180;
+    margin-bottom: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  
+  
